@@ -41,12 +41,12 @@
       <nav id="sidebar">
          <div class="menu_section">
             <ul>
-               <li><a href="index.html">Inicio</a></li>
-               <li><a href="TiendaMen.html">Hombres</a></li>
-               <li><a href="TiendaWomen.html">Mujeres</a></li>
-               <li><a href="TiendaChild.html">Niños</a></li>
-               <li><a href="Accesorios.html">Accesorios</a></li>
-               <li><a href="Login.html">Login</a></li>
+               <li><a href="index.php">Inicio</a></li>
+               <li><a href="TiendaMen.php">Hombres</a></li>
+               <li><a href="TiendaWomen.php">Mujeres</a></li>
+               <li><a href="TiendaChild.php">Niños</a></li>
+               <li><a href="Accesorios.php">Accesorios</a></li>
+               <li><a href="Login.php">Login</a></li>
             </ul>
          </div>
       </nav>
@@ -57,7 +57,7 @@
                <div class="row">
                   <div class="col-sm-6">
                      <div class="logo_main">
-                        <a  href="index.html"><img src="images/main_logo1.png" style="width: 150px;"/></a>
+                        <a  href="index.php"><img src="images/main_logo1.png" style="width: 150px;"/></a>
                      </div>
                   </div>
                   <div class="col-sm-6">
