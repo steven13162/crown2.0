@@ -37,12 +37,12 @@
       <nav id="sidebar">
          <div class="menu_section">
             <ul>
-               <li><a href="index.html">Inicio</a></li>
-               <li><a href="TiendaMen.html">Hombres</a></li>
-               <li><a href="TiendaWomen.html">Mujeres</a></li>
-               <li><a href="TiendaChild.html">Niños</a></li> 
-               <li><a href="Accesorios.html">Accesorios</a></li>
-               <li><a href="Login.html">Login</a></li>
+               <li><a href="index.php">Inicio</a></li>
+               <li><a href="TiendaMen.php">Hombres</a></li>
+               <li><a href="TiendaWomen.php">Mujeres</a></li>
+               <li><a href="TiendaChild.php">Niños</a></li> 
+               <li><a href="Accesorios.php">Accesorios</a></li>
+               <li><a href="Login.php">Login</a></li>
             </ul>
          </div>
       </nav>
